@@ -14,8 +14,8 @@
         <target device="blackberry">false</target>
     </deployment-targets>
     <sdk-version>2.0.1.GA2</sdk-version>
-    <id>com.hisasann.CoffeeTitanium</id>
-    <name>CoffeeTitanium</name>
+    <id>com.hisasann.CoffeeTi</id>
+    <name>CoffeeTi</name>
     <version>1.0</version>
     <publisher>hisamatsu</publisher>
     <url>http://</url>

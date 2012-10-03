@@ -19,4 +19,5 @@ else
   #require and open top level UI component
   ApplicationWindow = require("ui/ApplicationWindow")
   new ApplicationWindow().open()
-console.log "boot!!"
+
+Ti.API.log("boot!!");

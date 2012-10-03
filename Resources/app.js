@@ -11,6 +11,6 @@
     new ApplicationWindow().open();
   }
 
-  console.log("boot!!");
+  Ti.API.log("boot!!");
 
 }).call(this);
